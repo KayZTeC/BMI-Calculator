@@ -1,0 +1,6 @@
+[
+  {"model": "calculator.fitnessrecommendation", "pk": 1, "fields": {"category": "Underweight", "recommendation_text": "Increase your caloric intake with nutrient-dense foods such as nuts, avocados, and whole grains."}},
+  {"model": "calculator.fitnessrecommendation", "pk": 2, "fields": {"category": "Normal",     "recommendation_text": "Maintain your weight with a balanced diet and moderate exercise, such as 30 minutes of brisk walking daily."}},
+  {"model": "calculator.fitnessrecommendation", "pk": 3, "fields": {"category": "Overweight", "recommendation_text": "Incorporate at least 150 minutes of moderate cardio per week and reduce processed sugars."}},
+  {"model": "calculator.fitnessrecommendation", "pk": 4, "fields": {"category": "Obese",      "recommendation_text": "Consult a healthcare professional; start with low-impact activities like swimming and follow a tailored nutrition plan."}}
+]
